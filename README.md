@@ -1,4 +1,4 @@
- <!-- GitHub Profile README for Mahmoud Salah Ali Keshta -->
+ 
 
 <h1 align="center">👋 Hi, I'm <span style="color:#00BFA6;">Mahmoud Salah Ali Keshta</span></h1>
 <p align="center">
@@ -25,7 +25,7 @@ Currently sharpening my skills in **Angular**, **TypeScript**, and **modern UI f
 | Category | Technologies |
 |-----------|---------------|
 | **Frontend Development** | HTML5, CSS3, JavaScript (ES6+), TypeScript |
-| **Frameworks & Libraries** | Angular, React (Basics), Bootstrap, Tailwind CSS, jQuery |
+| **Frameworks & Libraries** | Angular, Bootstrap, Tailwind CSS, jQuery |
 | **Concepts** | OOP, DOM/BOM, RESTful APIs, Responsive Design |
 | **Version Control** | Git, GitHub |
 | **Design & UI Tools** | Figma, Adobe XD |
