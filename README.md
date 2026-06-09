@@ -12,7 +12,7 @@
 ## 🧭 About Me
 
 I’m a **Front-End Developer** who enjoys transforming complex ideas into intuitive, responsive, and visually appealing interfaces.  
-Currently sharpening my skills in **Angular**, **TypeScript**, and **modern UI frameworks** while exploring ways to make the web faster and cleaner.
+Currently sharpening my skills in **Angular**, reactjs, **TypeScript**, and **modern UI frameworks** while exploring ways to make the web faster and cleaner.
 
 🧩 I value clean code, teamwork, and constant learning.  
 🎯 Goal: To contribute to real-world projects that challenge both creativity and logic.  
