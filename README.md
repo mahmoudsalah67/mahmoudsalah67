@@ -25,7 +25,7 @@ Currently sharpening my skills in **Angular**, reactjs, **TypeScript**, and **mo
 | Category | Technologies |
 |-----------|---------------|
 | **Frontend Development** | HTML5, CSS3, JavaScript (ES6+), TypeScript |
-| **Frameworks & Libraries** | Angular, Bootstrap, Tailwind CSS, jQuery |
+| **Frameworks & Libraries** | Nextjs,React, Bootstrap, Tailwind CSS, jQuery |
 | **Concepts** | OOP, DOM/BOM, RESTful APIs, Responsive Design |
 | **Version Control** | Git, GitHub |
 | **Design & UI Tools** | Figma, Adobe XD |
